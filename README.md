@@ -1,6 +1,6 @@
 # Clash Royale Card Cycle Tracker
 
-If you are just here to view the project and don't want to go through the entire project description check out this video!  
+If you are just here to view the project and don't want to go through the entire project description, check out this video!  
 [Usage Demo](https://www.youtube.com/watch?v=gzkv1_iW1SI)
 
 **Clash Royale Card Cycle Tracker Tracker** is a personal Python-based tool I developed to enhance my Clash Royale gaming experience. This project focuses on real-time tracking of an opponent's card cycle, elixir levels, and champion status by capturing specific regions of the screen. Leveraging libraries like OpenCV, PyAutoGUI, and PIL, this tool served as a practical application of image processing and automation techniques.
